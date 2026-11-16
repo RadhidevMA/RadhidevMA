@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Radhidev M A 👋
 
-<!--
-**RadhidevMA/RadhidevMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Developer | Python | Health Tech | AI
 
-Here are some ideas to get you started:
+I'm a student building real projects in Python and Health Tech. I love turning ideas into working apps that help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**Human Medical History** - A simple, secure way to store and manage medical history digitally.
+
+### 🛠️ Tech I Use
+- Python
+- Git & GitHub
+- HTML / CSS
+- AI Tools
+
+### 📫 Connect With Me
+- LinkedIn: linkedin.com/in/radhidevma
+- GitHub: github.com/RadhidevMA
+
+"Learning by building, one project at a time."
